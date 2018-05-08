@@ -34,6 +34,7 @@ Vue.prototype.date_conversion = date_conversion
 | getQuarterEndDate    |      -      |    -    |获得本季度的停止日期                               |
 
 ## My Github
-[![github](https://img.shields.io/badge/github-lixueninggg-green.svg)](https://github.com/lixueninggg/date-conversion)
+
+[![github](https://img.shields.io/badge/github-lixueninggg-green.svg)](https://github.com/lixueninggg/date-conversion){:target="_blank"}
 
 Welcome to give me star

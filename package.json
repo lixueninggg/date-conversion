@@ -1,6 +1,6 @@
 {
   "name": "date-conversion",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "",
   "keywords": ["date", "javascript", "vue", "react"],
   "main": "index.js",
