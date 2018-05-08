@@ -35,6 +35,6 @@ Vue.prototype.date_conversion = date_conversion
 
 ## My Github
 
-[![github](https://img.shields.io/badge/github-lixueninggg-green.svg)](https://github.com/lixueninggg/date-conversion){:target="_blank"}
+[![github](https://img.shields.io/badge/github-lixueninggg-green.svg)](https://github.com/lixueninggg/date-conversion)
 
 Welcome to give me star
